@@ -15,3 +15,6 @@ https://github.com/danielwooo-h/My-Projects/tree/main/CalculadoradeVotacao |
 
 |Projeto 4 - Iniciante (Java)
 https://github.com/danielwooo-h/My-Projects/blob/main/ContaBanco/ContaTerminal.java |
+
+|Projeto 5 - Iniciante (Java)
+https://github.com/danielwooo-h/My-Projects/blob/main/Verifica%C3%A7%C3%A3odeHabilita%C3%A7%C3%A3o/verifica%C3%A7%C3%A3odetran.java|
