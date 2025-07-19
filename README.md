@@ -18,3 +18,15 @@ https://github.com/danielwooo-h/My-Projects/blob/main/ContaBanco/ContaTerminal.j
 
 |Projeto 5 - Iniciante (Java)
 https://github.com/danielwooo-h/My-Projects/blob/main/Verifica%C3%A7%C3%A3odeHabilita%C3%A7%C3%A3o/verifica%C3%A7%C3%A3odetran.java|
+
+|Projeto 6 - Iniciante (Java)
+https://github.com/danielwooo-h/My-Projects/blob/main/IngressodoCinema/Ingresso.java|
+
+|Projeto 7 - Iniciante (Java)
+https://github.com/danielwooo-h/My-Projects/blob/main/OpcoesContaBancaria/contabancaria.java|
+
+|Projeto 8 - Iniciante (Java)
+https://github.com/danielwooo-h/My-Projects/blob/main/SalariodoFuncionario/Salario.java|
+
+|Projeto 9 - Iniciante (Java)
+https://github.com/danielwooo-h/My-Projects/blob/main/SelecionandoCandidato/selecionandocandidato.java|
